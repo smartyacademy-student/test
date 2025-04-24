@@ -1,1 +1,1 @@
-console.log('hello python')
+console.log('hello java')
